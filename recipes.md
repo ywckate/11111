@@ -114,7 +114,7 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 30 cups semisweet chocolate chips
+- 5 cups semisweet chocolate chips
 
 Instructions:
 
