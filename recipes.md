@@ -91,7 +91,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
-  -water
+- Water
 
 Instructions:
 
